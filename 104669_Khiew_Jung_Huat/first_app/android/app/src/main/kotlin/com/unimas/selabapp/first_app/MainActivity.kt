@@ -1,0 +1,5 @@
+package com.unimas.selabapp.first_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
