@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/2.2/flutter_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2.2/flutter_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2.2/flutter_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/restaurant_menu_104582/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/restaurant_menu_104582/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/restaurant_menu_104582/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
